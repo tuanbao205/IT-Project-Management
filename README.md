@@ -1,7 +1,9 @@
-# -IT-Project-Management
+# Project: IT Project Management 
 
-## Group 09
-- Lê Thị Cẩm Ly - 23010411
-- Hoàng Thị Ngọc - 23010156
-- Hoàng Tuấn Bảo - 23010194
-- Nguyễn Văn Thành -23010191
+## Team Members
+- Hoàng Thị Ngọc – Product Owner
+- Lê Thị Cẩm Ly – Scrum Master
+- Hoàng Tuấn Bảo – Developer
+- Cao Thanh Thảo – Developer
+- Hà Xuân Đại – Developer
+- Nguyễn Văn Thành – Developer
